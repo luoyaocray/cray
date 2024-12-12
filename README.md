@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **SSRF**
 
-- 📫 How to reach me **ly408728507@163.com**
+- 📫 How to reach me **com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
