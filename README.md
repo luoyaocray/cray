@@ -1,4 +1,3 @@
-# cray
 <h3 align="center">A student from china</h3>
 
 - 🔭 I’m currently working on **SSRF**
