@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Cray</h1>
 <h3 align="center">A student from china</h3>
+<h4 align="center">Master? or Phd? </h4>
 
-- 🔭 I’m currently working on **SSRF**
+- 🔭 I’m currently working on **Team涪韩科技**
 
-- 🌱 I’m currently learning **python**
+- ⛅ I’m author about *CCIES (Convenient Classroom Interaction Encoding System)**
+
+- 📚 I open source the **USAC 817** optical postgraduate entrance examination material
+
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **XXXXX@163.com(I DO NOT WANT GIVE TO YOU :)  )**
 
