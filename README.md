@@ -10,9 +10,8 @@
 
 - 🌱 I’m currently learning **Python and Verilog HDL**
 
-- 📫 How to reach me **XXXXX@163.com(I DO NOT WANT GIVE TO YOU :)  )**
-
 <h3 align="left">Connect with me:</h3>
+**XXXXX@163.com(I DO NOT WANT GIVE TO YOU :)  )**
 <p align="left">
 </p>
 
