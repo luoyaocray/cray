@@ -6,9 +6,9 @@
 
 - ⛅ I’m author about *CCIES (Convenient Classroom Interaction Encoding System)**
 
-- 📚 I open source the **USAC 817** optical postgraduate entrance examination material
+- 📚 I open source the **UCAS 817 optical** postgraduate entrance examination material
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and Verilog HDL**
 
 - 📫 How to reach me **XXXXX@163.com(I DO NOT WANT GIVE TO YOU :)  )**
 
